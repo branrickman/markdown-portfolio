@@ -1,3 +1,8 @@
+### Find Me:
+- [GitHub](https://github.com/branrickman)
+- [ResearchGate](https://www.researchgate.net/profile/Bryan_Brickman)
+- [Linkedin](https://www.linkedin.com/in/bryan-brickman-b155451b0/)
+
 ### Network Epidemiology Projects:
 - [BCNAV: Social Simulation of Breast Cancer and Patient Navigation](https://github.com/khanna7/bc-navigation)
 - [Project NEST: Co-Simulating the Transmission of HIV and Syphilis](https://github.com/jozik/p2m/tree/hiv+syphilis) (Private Repo as of April 2022)
