@@ -1,27 +1,26 @@
 ### Some Personal Favorites
 
-  📖 Books
 
-  ### Favorite Books
-  - [Anathem, by Neal Stephenson ⛪]()
-  - [The Book of Delights, by Ross Gay 🌻]()
-  - [Dune, by Frank Herbert 🪱]()
-  - [Salt, Fat, Acid, Heat by Samin Nosrat 🧂]()
-  - [Dare to Lead by Brene Brown 💝]()
-  - [Educated by Tara Westover 🏋️]()
+## 📖 Favorite Books
+- [Anathem, by Neal Stephenson ⛪]()
+- [The Book of Delights, by Ross Gay 🌻]()
+- [Dune, by Frank Herbert 🪱]()
+- [Salt, Fat, Acid, Heat by Samin Nosrat 🧂]()
+- [Dare to Lead by Brene Brown 💝]()
+- [Educated by Tara Westover 🏋️]()
+
+- [Anything by Oliver Sacks 🫀]()
+- [Anything by EO Wilson 🐜]()
+- [Anything by <del>Dadley</del> Hadley Wickham 📈]()
+- [Anything by Terry Pratchett 🧙‍♂️]()
+
   
-  - [Anything by Oliver Sacks 🫀]()
-  - [Anything by EO Wilson 🐜]()
-  - [Anything by <del>Dadley</del> Hadley Wickham 📈]()
-  - [Anything by Terry Pratchett 🧙‍♂️]()
-
-  
-  <hr>  
+<hr>  
 
 
 
 
-   📺 Youtube Channels
+## 📺 Youtube Channels
   
   ### Personal Recs
   - [WORM TUTORIAL](https://www.youtube.com/c/WormTutorial)
