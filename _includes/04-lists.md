@@ -1,6 +1,6 @@
 ### Some Personal Favorites
 <details>
-  <summary>📖 Books</summary>
+  📖 Books
 
   ### Favorite Books
   - [Anathem, by Neal Stephenson ⛪]()
@@ -21,7 +21,7 @@
 
 
 <details>
-  <summary> 📺 Youtube Channels</summary>
+   📺 Youtube Channels
   
   ### Personal Recs
   - [WORM TUTORIAL](https://www.youtube.com/c/WormTutorial)
