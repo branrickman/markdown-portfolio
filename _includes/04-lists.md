@@ -1,5 +1,5 @@
 ### Some Personal Favorites
-<details>
+
   📖 Books
 
   ### Favorite Books
@@ -17,10 +17,10 @@
 
   
   <hr>  
-</details>
 
 
-<details>
+
+
    📺 Youtube Channels
   
   ### Personal Recs
@@ -76,4 +76,4 @@
 
 
   <hr>
-</details>
+
